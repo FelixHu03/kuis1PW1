@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+}
+.header{
+
+}
+.logo{
+    width: 15%;
+}
